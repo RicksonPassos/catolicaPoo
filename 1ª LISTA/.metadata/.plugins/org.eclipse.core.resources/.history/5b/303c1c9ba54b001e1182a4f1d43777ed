@@ -1,0 +1,13 @@
+package atividade;
+import java.util.Scanner;
+
+public class Atividade {
+	
+	public static void main(String[] args) {
+		Scanner leitura = new Scanner(System.in);
+		
+		
+		
+	}
+
+}

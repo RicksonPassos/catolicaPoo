@@ -1,0 +1,20 @@
+package atividade;
+import java.util.Scanner;
+
+public class Atividade {
+	
+	public static void main(String[] args) {
+		Scanner leitura = new Scanner(System.in);
+		
+		
+		System.out.println("Informe o seu nome completo: ");
+		String nomeCompleto = leitura.nextLine();
+		System.out.println("informe o primeiro valor inteiro: ");
+		int n1 = leitura.nextInt();
+		System.out.println("Informe o segundo valor inteiro");
+		int n2 = leitura.nextInt();
+		double divisao = (double)n1/n2;
+		System.out.println(nomeCompleto + ", o primeiro numero informado é: "+n1+" o segundo valor é: "+n2+" O valor da divisão é: "+divisao);
+	}
+
+}

@@ -1,0 +1,9 @@
+package atividaded3;
+import java.util.Scanner;
+
+public class Atividade_3 {
+	public static void main(String[] args) {
+		Scanner leitura = new Scanner(System.in);
+		
+	}
+}

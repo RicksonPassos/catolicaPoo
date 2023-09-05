@@ -1,0 +1,7 @@
+package atividaded3;
+
+public class Atividade_3 {
+	public static void main(String[] args) {
+		Scanner leitura = new Sacanner(System.in);
+	}
+}

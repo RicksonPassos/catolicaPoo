@@ -1,0 +1,8 @@
+package atividade2;
+import java.util.Scanner;
+
+public class Atividade_2 {
+	Sanner leitura = new Scanner(System.in);
+	
+
+}
